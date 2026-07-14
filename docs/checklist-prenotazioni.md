@@ -4,10 +4,10 @@ Da fare in ordine. Le prime due sono le più urgenti.
 
 ## 🔴 Urgenti (fai prima queste)
 
-- [ ] **Verificare l'ultimo bus** verso NYC per martedì — controlla **sia Shandaken sia Phoenicia**
-  - Su trailways.com / wanderu.com (Shandaken → New York, poi Phoenicia → New York) oppure tel. 1-800-776-7548
-  - Sali dalla fermata con l'orario più comodo
-  - Se non c'è un bus verso le 18:00 → scegliere corsa del pomeriggio o partire da Kingston
+- [ ] **Decidere l'orario di partenza** (verificato: da Phoenicia/Shandaken l'ultimo bus è ~17:00 — dopo le 18 NON c'è)
+  - Opzione A: bus delle **~17:00** da Phoenicia o Shandaken (cena anticipata)
+  - Opzione B: passaggio a **Kingston** + bus serale (ultimo ~19:30)
+  - Conferma l'orario esatto su trailways.com / wanderu.com o tel. 1-800-776-7548
 - [ ] **Prenotare dove dormire** (1 notte, martedì → mercoledì)
   - Hotel o Airbnb a **Midtown, vicino Port Authority** (8th Ave & 42nd St)
   - Budget realistico: ~$150–350

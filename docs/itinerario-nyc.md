@@ -19,12 +19,18 @@
 
 ## ⚠️ Punti critici da non dimenticare
 
-### 1. Il bus "dopo cena" alle 18:00 potrebbe non esserci
-L'ultima corsa verso NYC dalla zona di Shandaken di solito è nel **tardo
-pomeriggio**. Prima di tutto **verifica l'orario dell'ultimo bus** (vedi
-`bus-shandaken-nyc.md`). Alternative se è troppo presto:
-- Cena anticipata + bus del pomeriggio
-- Farsi accompagnare a **Kingston**, NY (più corse, anche più tardi)
+### 1. Il bus "dopo cena" alle 18:00 da Phoenicia/Shandaken NON c'è (verificato)
+Da **Phoenicia/Shandaken** l'**ultima corsa verso NYC è verso le ~17:00 (5 PM)**
+(corse dalle 9:15 alle 17:00, 4 al giorno). Alle 18:00 da lì non parte più nulla.
+
+Se vuoi partire dopo le 18, l'unica strada è:
+- **Farsi accompagnare a Kingston** (~40 min di auto): l'ultima corsa Kingston → NYC
+  è alle **~19:30 (7:30 PM)** e Kingston ha ~15 corse al giorno.
+
+Altrimenti da Phoenicia/Shandaken: **cena anticipata + bus delle ~17:00**.
+
+> Orari da riassunti di ricerca, coerenti tra più fonti — conferma l'esatto al
+> momento di prenotare (trailways.com o 1-800-776-7548).
 
 ### 2. Ritorno mercoledì: bus SÌ, Uber NO
 - **Distanza Manhattan → Shandaken:** ~119 miglia (~2h25m di guida)

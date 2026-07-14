@@ -15,8 +15,13 @@ Alternative sulla stessa tratta: **Megabus**, **FlixBus**.
 ## Dati pratici
 - **Durata:** ~3h30m (diretto)
 - **Prezzo:** da circa **$34–44** a tratta
-- **Corse:** ~4 al giorno; l'ultima verso NYC di solito nel **tardo pomeriggio (~16:00–17:00)**
+- **Corse da Phoenicia/Shandaken:** ~4 al giorno, dalle **9:15** all'**ultima ~17:00 (5 PM)** → dopo le 18 NON c'è bus
 - Arriva alla fermata **30 minuti prima** della partenza
+
+## 🕖 Vuoi partire dopo le 18? Passa da Kingston
+- **Kingston → NYC:** ~15 corse al giorno, **ultima ~19:30 (7:30 PM)**
+- Kingston è a ~40 min di auto da Shandaken (serve un passaggio)
+- Terminal: 400 Washington Ave, Kingston, NY 12401
 
 ## ✅ Come vedere l'orario ESATTO e prenotare
 Gli orari cambiano di giorno in giorno: controlla sempre per la data reale.
