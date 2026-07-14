@@ -41,9 +41,13 @@ per **una sola notte** sono rari/cari. Per 1 notte:
 ---
 
 ## Come arrivare alla fermata del bus
-La fermata è **Shandaken – Pine Hill Trailways**, incrocio **NY-42 & NY-28**,
-a pochi minuti dal campo. Ti serve un **passaggio o taxi** dal campo alla
-fermata → organizzalo in anticipo.
+Ci sono **due fermate** vicine sulla stessa linea Trailways (Route 28):
+- **Shandaken** – incrocio **NY-42 & NY-28**
+- **Phoenicia** – **52 Main St** (poche miglia a est)
+
+Sali da quella con l'orario più comodo (controlla entrambe, soprattutto per
+la corsa della sera). Ti serve un **passaggio o taxi** dal campo alla fermata
+→ organizzalo in anticipo.
 
 > 💡 Se sei collegato/a al campo: **Timber Lake Camp organizza spesso un
 > trasporto di gruppo** da/per Port Authority. Chiedi all'ufficio del campo

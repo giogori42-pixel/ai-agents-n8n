@@ -5,9 +5,12 @@
 Alternative sulla stessa tratta: **Megabus**, **FlixBus**.
 
 ## Fermate
-- **Partenza (andata):** Shandaken – Pine Hill Trailways, incrocio **NY-42 & NY-28**, Shandaken, NY 12480
+- **Partenza (andata) — due opzioni equivalenti sulla stessa linea (Route 28):**
+  - **Shandaken** – Pine Hill Trailways, incrocio **NY-42 & NY-28**, Shandaken, NY 12480
+  - **Phoenicia** – Pine Hill Trailways, **52 Main St**, Phoenicia, NY (vicinissima, poche miglia a est)
+  - 👉 Controlla gli orari di **entrambe** e sali da quella con la corsa più comoda (utile soprattutto per l'ultimo bus della sera)
 - **Arrivo a NYC:** **Port Authority Bus Terminal** — 8th Ave, tra 41ª e 42ª strada (gate Trailways 22-34 & 80)
-- **Ritorno:** stessa tratta al contrario (Port Authority → Shandaken)
+- **Ritorno:** stessa tratta al contrario (Port Authority → Shandaken **o** Phoenicia)
 
 ## Dati pratici
 - **Durata:** ~3h30m (diretto)
@@ -20,7 +23,8 @@ Gli orari cambiano di giorno in giorno: controlla sempre per la data reale.
 
 1. Vai su **https://trailways.com** oppure **https://www.wanderu.com**
 2. Da: `Shandaken, NY` → A: `New York, NY` (e viceversa per il ritorno)
-3. Scegli la **data** → vedi tutti gli orari e prenoti online
+3. **Ripeti anche con `Phoenicia, NY`** come partenza → confronta gli orari e scegli il migliore
+4. Scegli la **data** → vedi tutti gli orari e prenoti online
 
 **Telefono Adirondack Trailways:** 1-800-776-7548 (attivo 7:00–22:00)
 
