@@ -12,16 +12,23 @@ Alternative sulla stessa tratta: **Megabus**, **FlixBus**.
 - **Arrivo a NYC:** **Port Authority Bus Terminal** — 8th Ave, tra 41ª e 42ª strada (gate Trailways 22-34 & 80)
 - **Ritorno:** stessa tratta al contrario (Port Authority → Shandaken **o** Phoenicia)
 
-## Dati pratici
-- **Durata:** ~3h30m (diretto)
-- **Prezzo:** da circa **$34–44** a tratta
-- **Corse da Phoenicia/Shandaken:** ~4 al giorno, dalle **9:15** all'**ultima ~17:00 (5 PM)** → dopo le 18 NON c'è bus
-- Arriva alla fermata **30 minuti prima** della partenza
+## 🚌 Orari reali verificati (trailways.com) — ANDATA martedì
+Corsa serale (la più adatta al piano "dopo cena"):
+| Parti da | Orario | Arrivo Port Authority | Cambi | Durata | Prezzo (Saver) |
+|----------|--------|----------------------|-------|--------|--------|
+| **Phoenicia** (52 Main St) | **17:30** | 21:40 | 1 (Kingston) | 4h10m | **$44.35** |
+| **Shandaken** (NY-42 & NY-28) | **17:20** | 21:40 | 1 (Kingston) | 4h20m | **$47.25** |
 
-## 🕖 Vuoi partire dopo le 18? Passa da Kingston
-- **Kingston → NYC:** ~15 corse al giorno, **ultima ~19:30 (7:30 PM)**
-- Kingston è a ~40 min di auto da Shandaken (serve un passaggio)
-- Terminal: 400 Washington Ave, Kingston, NY 12401
+➡️ Il cambio a Kingston è **incluso nel biglietto** (non serve auto).
+➡️ Dopo le 18 da Phoenicia/Shandaken **non parte più nulla**: la 17:20/17:30 è l'ultima.
+
+Bus **diretti** più veloci (partono da **Kingston**, di mattina):
+- Kingston 7:30 → Port Authority 9:40 — diretto, 2h10m, $41.25
+- Kingston 8:30 → Port Authority 10:40 — diretto, 2h10m, $37.95
+(Kingston è a ~40 min di auto da Shandaken; ~14 corse al giorno.)
+
+- Arriva alla fermata **30 minuti prima** della partenza
+- Fermata NYC: **Port Authority** — 625 8th Avenue, New York, NY 10018
 
 ## ✅ Come vedere l'orario ESATTO e prenotare
 Gli orari cambiano di giorno in giorno: controlla sempre per la data reale.

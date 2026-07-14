@@ -10,20 +10,23 @@ dormire, cosa fare e come tornare.
 ai-agents-n8n/
 ├── README.md                        → questo file
 ├── docs/
+│   ├── RIEPILOGO.md                 → ⭐ PARTI DA QUI: tutto in una pagina
 │   ├── itinerario-nyc.md            → il piano completo (andata / notte / ritorno)
-│   ├── bus-shandaken-nyc.md         → dettagli bus, orari, come prenotare
-│   └── checklist-prenotazioni.md    → cosa prenotare, spunte da fare domani
+│   ├── bus-shandaken-nyc.md         → dettagli bus, orari reali, come prenotare
+│   ├── dove-dormire.md              → hotel/ostello a Hell's Kitchen
+│   ├── checklist-prenotazioni.md    → cosa prenotare, spunte da fare
+│   └── link-orari.md                → link diretti agli orari
 ├── workflows/  credentials/  data/  → cartelle vuote (per uso futuro)
 ```
 
 ## ⭐ Da dove ripartire domani sul laptop
 
-Apri **`docs/checklist-prenotazioni.md`**: è la lista delle cose da
-fare/prenotare, in ordine. Le prime due sono le più urgenti:
+Apri **`docs/RIEPILOGO.md`** → hai tutto il piano in una pagina.
+Poi usa **`docs/checklist-prenotazioni.md`** per prenotare. In sintesi:
 
-1. **Verificare l'orario dell'ultimo bus** Shandaken → NYC (il bus delle 18:00
-   potrebbe non esistere)
-2. **Prenotare hotel/Airbnb** a Midtown, vicino a Port Authority
+1. **Bus andata:** Phoenicia 17:30 → Port Authority 21:40 (~$44) su trailways.com
+2. **Hotel:** Hell's Kitchen / Midtown West (ostello ~$50–90, hotel ~$130–200)
+3. **Ritorno mercoledì:** bus Trailways (NO Uber)
 
 ## 💻 Come aprirlo su Antigravity (laptop)
 

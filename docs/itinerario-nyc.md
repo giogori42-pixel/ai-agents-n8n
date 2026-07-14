@@ -10,39 +10,37 @@
 
 | Quando | Cosa |
 |--------|------|
-| **Martedì (verifica orario!)** | Bus Trailways: Shandaken → NYC Port Authority. ⚠️ L'ultima corsa di solito parte nel **tardo pomeriggio (~16:00–17:00), NON alle 18:00** |
-| **Martedì sera** | Check-in hotel/Airbnb a **Midtown**, vicino a Port Authority (8th Ave & 42nd St) |
-| **Mercoledì** | Giro per Manhattan |
-| **Mercoledì pom./sera** | Bus Trailways: Port Authority → Shandaken. **NIENTE Uber** (troppo caro, vedi sotto) |
+| **Martedì 17:30** | Bus Trailways: **Phoenicia 17:30 → Port Authority 21:40** (1 cambio a Kingston, ~$44). In alternativa Shandaken 17:20 → 21:40 (~$47) |
+| **Martedì ~21:40** | Arrivo a Manhattan → check-in hotel a **Hell's Kitchen / Midtown West** (a piedi da Port Authority) |
+| **Mercoledì** | Giro per Manhattan a piedi (Times Square, Central Park, High Line…) |
+| **Mercoledì pom./sera** | Bus Trailways: Port Authority → Phoenicia/Shandaken. **NIENTE Uber** (troppo caro, vedi sotto) |
 
 ---
 
 ## ⚠️ Punti critici da non dimenticare
 
-### 1. Il bus "dopo cena" alle 18:00 da Phoenicia/Shandaken NON c'è (verificato)
-Da **Phoenicia/Shandaken** l'**ultima corsa verso NYC è verso le ~17:00 (5 PM)**
-(corse dalle 9:15 alle 17:00, 4 al giorno). Alle 18:00 da lì non parte più nulla.
+### 1. Orari bus reali (verificati su trailways.com)
+Da **Phoenicia/Shandaken** l'ultima corsa serale utile:
+- **Phoenicia 17:30 → Port Authority 21:40** — 1 cambio (a Kingston), 4h10m, **$44.35**
+- **Shandaken 17:20 → Port Authority 21:40** — 1 cambio (a Kingston), 4h20m, **$47.25**
 
-Se vuoi partire dopo le 18, l'unica strada è:
-- **Farsi accompagnare a Kingston** (~40 min di auto): l'ultima corsa Kingston → NYC
-  è alle **~19:30 (7:30 PM)** e Kingston ha ~15 corse al giorno.
+Il cambio a Kingston è **già incluso nel biglietto**: non serve farsi accompagnare
+in auto. Dopo le 18 da Phoenicia/Shandaken NON parte più nulla → la 17:20/17:30 è
+l'ultima. (I bus **diretti** più veloci ~2h10m partono da **Kingston** al mattino,
+es. 8:30 → 10:40, $37.95, ma serve arrivare a Kingston.)
 
-Altrimenti da Phoenicia/Shandaken: **cena anticipata + bus delle ~17:00**.
-
-> Orari da riassunti di ricerca, coerenti tra più fonti — conferma l'esatto al
-> momento di prenotare (trailways.com o 1-800-776-7548).
+> Orari verificati per la data cercata — riconferma al momento di prenotare
+> (trailways.com o 1-800-776-7548), cambiano di giorno in giorno.
 
 ### 2. Ritorno mercoledì: bus SÌ, Uber NO
 - **Distanza Manhattan → Shandaken:** ~119 miglia (~2h25m di guida)
 - **Uber:** costo realistico **$250–450+** → sconsigliato
 - **Bus Trailways (Port Authority → Shandaken):** ~**$34–44**, ~3h30m → scelta giusta
 
-### 3. Airbnb a Manhattan — regole di NYC
-New York limita gli affitti brevi (Local Law 18): veri "interi appartamenti"
-per **una sola notte** sono rari/cari. Per 1 notte:
-- Un **hotel a Midtown** è spesso più semplice (a volte più economico)
-- Stai **vicino a Port Authority**: scendi dal bus e sei già in zona
-- Budget realistico 1 notte: **~$150–350**
+### 3. Dove dormire — vedi `dove-dormire.md`
+Regola NYC (Local Law 18): veri Airbnb "intero appartamento" per 1 notte sono
+rari/cari → per 1 notte meglio un **hotel/ostello a Hell's Kitchen (Midtown West)**,
+vicino a Port Authority. Dettagli completi nel file `dove-dormire.md`.
 
 ---
 
