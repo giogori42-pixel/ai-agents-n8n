@@ -1,0 +1,17 @@
+# Ambiente / segreti
+.env
+.env.*
+*.key
+*.pem
+credentials/*.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dipendenze
+node_modules/
+
+# Output / temporanei
+data/*.tmp
+*.log
